@@ -18,7 +18,6 @@ Ce serveur inclut également un module de statistiques, ainsi que des gestionnai
 - Affichage des adresses d’écoute pour chaque protocole.
 - Statistiques intégrées.
 - Gestion des erreurs et avertissements via des événements.
-- Configuration facile via code source.
 
 ---
 
